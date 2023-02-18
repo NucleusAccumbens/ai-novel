@@ -1,0 +1,20 @@
+{
+    "reactions": [
+        {
+            "name": "fear",
+            "body": "The main character is afraid. Describe her anxiety and worry in as much detail as possible."
+        },
+        {
+            "name": "sadness",
+            "body": "The main character feels sad. Describe her condition in as much detail as possible."
+        },
+        {
+            "name": "rage",
+            "body": "The main character is furious. Describe her condition in as much detail as possible."
+        },
+        {
+            "name": "joy",
+            "body": "The main character is happy. Describe her condition in as much detail as possible."
+        }
+    ]
+}

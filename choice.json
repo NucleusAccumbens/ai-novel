@@ -1,0 +1,12 @@
+{
+    "choice": [
+        {
+            "name": "choiceOne",
+            "body": "The main character chooses the first option."
+        },
+        {
+            "name": "choiceTwo",
+            "body": "The main character chooses the second option."
+        }
+    ]
+}

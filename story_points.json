@@ -1,0 +1,36 @@
+{
+    "storyPoints": [
+        {
+            "name": "MotivatingAction",
+            "body": "Continue the novel. Describe an incident which will prompt the main character to action and become the plot of a detective story"
+        },
+        {
+            "name": "TheCulminationOfTheFirstPart",
+            "body": "Continue the novel. Describe the culmination of the first part."
+        },
+        {
+            "name": "ObstacleOne",
+            "body": "Continue the novel. Describe an unexpected event."
+        },
+        {
+            "name": "BigTwist",
+            "body": "Continue the novel. Describe an unexpected plot twist in the story that will greatly change the situation and the attitude of the characters towards it."
+        },
+        {
+            "name": "Disaster",
+            "body": "Continue the novel. Describe a situation that is catastrophic for the characters. Describe the current crisis."
+        },
+        {
+            "name": "ActIICulmination",
+            "body": "Continue the novel. Describe the culmination of the second part, the heroes have hope."
+        },
+        {
+            "name": "ActIIICulmination",
+            "body": "Continue the novel. Describe the culmination of the third part."
+        },
+        {
+            "name": "Enouement",
+            "body": "Finish the novel. Describe a plot denouement that will lead to a happy ending."
+        }
+    ]
+}

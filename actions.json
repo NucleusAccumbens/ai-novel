@@ -1,0 +1,16 @@
+{
+    "actions": [
+        {
+            "name": "choice",
+            "body": "The heroine is faced with a choice of two options. Think and describe these options."
+        },
+        {
+            "name": "addingACharacter",
+            "body": "Enter a new character. A dialogue begins between the main character and the new character. Write this dialogue."
+        },
+        {
+            "name": "present",
+            "body": "The main character receives an unexpected gift that helps her in a difficult situation."
+        }
+    ]
+}
